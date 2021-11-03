@@ -12,7 +12,7 @@ This is a Interview Scheduler app using React.
  ![Error_saving.png](https://github.com/mays4/Scheduler/blob/master/Docs/Error_saving.png?raw=true)
 * if error happened when deleting error message shows.
  ![message_Error_deleting.png](https://github.com/mays4/Scheduler/blob/master/Docs/message_Error_deleting.png?raw=true)
-* Students should  write  their name when booking and select  interviwer if name left blank or interveiwer not selected  message will shows and notif the student.
+* Students should  write  their name when booking and select  interviwer if name left blank or interveiwer not selected  message will shows and notify the student.
 ![message_blank_name.png](https://github.com/mays4/Scheduler/blob/master/Docs/message_blank_name.png?raw=true) 
 ![Message_saving_without_Interviewer_name.png](https://github.com/mays4/Scheduler/blob/master/Docs/Message_saving_without_Interviewer_name.png?raw=true)
 
