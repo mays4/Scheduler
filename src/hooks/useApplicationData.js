@@ -38,6 +38,7 @@ export default function useApplicationData(initial) {
       setState({ ...state, appointments, days });
     });
   }
+  // function to count spots available after booking and after cancellation
   const updateSpots = (state, appointments) => {
     const index = state.days.findIndex((d) => d.name === state.day);
     const day = state.days[index];
