@@ -1,13 +1,22 @@
 # Interview Scheduler
-This is a react app which you can book appointment from(monday to Friday)--from 12pm to 5 pm![Scheduler-view.png](https://github.com/mays4/Scheduler/blob/master/Docs/Scheduler-view.png?raw=true)
-* The user can select available spot and choose the interviewer and book appointmenet![Saving-an-appointment.png](https://github.com/mays4/Scheduler/blob/master/Docs/Saving-an-appointment.png?raw=true)
-* The user can edit the appointment by clicking edit and change the name and interviewer.
-* User can delete the interview ![deleting.png](https://github.com/mays4/Scheduler/blob/master/Docs/deleting.png?raw=true) and before deleting comifrm message shows ![Confirm_deleting.png](https://github.com/mays4/Scheduler/blob/master/Docs/Confirm_deleting.png?raw=true)
-* if error happen when saving error message shows ![Error_saving.png](https://github.com/mays4/Scheduler/blob/master/Docs/Error_saving.png?raw=true)
-* if error happen when deleting error message shows ![message_Error_deleting.png](https://github.com/mays4/Scheduler/blob/master/Docs/message_Error_deleting.png?raw=true)
-* user should choose name and interviwer if blank name or interviwer message will notif the user he/she should choice name and interviwer
+This is a react app.
+Student  can book appointment from(monday to Friday) and pick available time from 12pm (to 5 pm).
+![Scheduler-view.png](https://github.com/mays4/Scheduler/blob/master/Docs/Scheduler-view.png?raw=true)
+* Student can select available spot and choose the interviewer and book appointmenet.
+![Saving-an-appointment.png](https://github.com/mays4/Scheduler/blob/master/Docs/Saving-an-appointment.png?raw=true)
+* Studnet can edit the appointment by clicking edit and change the name and  the interviewer.
+* Student  can delete the interview.
+![deleting.png](https://github.com/mays4/Scheduler/blob/master/Docs/deleting.png?raw=true) and before deleting confirmation  message shows and student can make a choice by deleting interview or cancel deleting.
+![Confirm_deleting.png](https://github.com/mays4/Scheduler/blob/master/Docs/Confirm_deleting.png?raw=true)
+* if error happened when saving error message shows.
+ ![Error_saving.png](https://github.com/mays4/Scheduler/blob/master/Docs/Error_saving.png?raw=true)
+* if error happened when deleting error message shows.
+ ![message_Error_deleting.png](https://github.com/mays4/Scheduler/blob/master/Docs/message_Error_deleting.png?raw=true)
+* Students should  write  their name when booking and select  interviwer if name left blank or interviwer not selected  message will shows and notif the student.
 ![message_blank_name.png](https://github.com/mays4/Scheduler/blob/master/Docs/message_blank_name.png?raw=true) 
 ![Message_saving_without_Interviewer_name.png](https://github.com/mays4/Scheduler/blob/master/Docs/Message_saving_without_Interviewer_name.png?raw=true)
+
+## Enjoy the App 
 
 ## Setup
 
