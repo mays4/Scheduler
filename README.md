@@ -40,8 +40,8 @@ npm test
 ```sh
 npm run storybook
 ```
-## Express is the basis for the Scheduler API server application
-* fork and clone scheduler_api (https://github.com/lighthouse-labs/scheduler-api.
+## Scheduler API server application
+* fork and clone scheduler_api https://github.com/lighthouse-labs/scheduler-api.
 * Install Install dependencies with `npm install`.
 * Open two terminal one for Scheduler-API and one for Secheduler.
 *  Go to `http://localhost:8001`
@@ -52,3 +52,8 @@ npm run storybook
 ``` sh
 npm run cypress
 ```
+## Dependencies
+- axios
+- @testing-library/react-hooks
+- react-test-renderer
+- others
