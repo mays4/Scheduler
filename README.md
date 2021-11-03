@@ -48,7 +48,7 @@ npm run storybook
 
 
 
-## Running Sypress 
+## Running Cypress 
 ``` sh
 npm run cypress
 ```
