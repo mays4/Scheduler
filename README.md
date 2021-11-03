@@ -1,6 +1,6 @@
 # Interview Scheduler
-This is a react app.
-Student  can book appointment from(monday to Friday) and pick available time from 12pm (to 5 pm).
+This is a Interview Scheduler app using React.
+* Student  can book appointment from(monday to Friday) and pick available time from 12pm (to 5 pm).
 ![Scheduler-view.png](https://github.com/mays4/Scheduler/blob/master/Docs/Scheduler-view.png?raw=true)
 * Student can select available spot and choose the interviewer and book appointmenet.
 ![Saving-an-appointment.png](https://github.com/mays4/Scheduler/blob/master/Docs/Saving-an-appointment.png?raw=true)
@@ -12,7 +12,7 @@ Student  can book appointment from(monday to Friday) and pick available time fro
  ![Error_saving.png](https://github.com/mays4/Scheduler/blob/master/Docs/Error_saving.png?raw=true)
 * if error happened when deleting error message shows.
  ![message_Error_deleting.png](https://github.com/mays4/Scheduler/blob/master/Docs/message_Error_deleting.png?raw=true)
-* Students should  write  their name when booking and select  interviwer if name left blank or interviwer not selected  message will shows and notif the student.
+* Students should  write  their name when booking and select  interviwer if name left blank or interveiwer not selected  message will shows and notif the student.
 ![message_blank_name.png](https://github.com/mays4/Scheduler/blob/master/Docs/message_blank_name.png?raw=true) 
 ![Message_saving_without_Interviewer_name.png](https://github.com/mays4/Scheduler/blob/master/Docs/Message_saving_without_Interviewer_name.png?raw=true)
 
